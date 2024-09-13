@@ -33,7 +33,10 @@
     - 信息源
         - 可以直接引用的信息源
             - [globaltimes](www.globaltimes.cn)
-                - 
+                - [cn](https://www.globaltimes.cn/china/index.html)
+                - [world](https://www.globaltimes.cn/world/index.html)
+        - 批判性信息源
+            - [纽约时报](https://www.usnews.com/topics/organizations/new_york_times?offset=10)
 - 中秋节
 - 待定
 # 流程:  
