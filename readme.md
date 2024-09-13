@@ -1,5 +1,5 @@
 # 超链接hyperlinks:
-[大纲outline](www.github.com/liuminglang/newspaper/outline.md)
+[大纲outline](https://github.com/liuminglang/newspaper/blob/main/outline.md)
 # 文件结构
 - source:新闻源
     - readme.md
