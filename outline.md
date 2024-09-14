@@ -32,7 +32,7 @@
 - 国际
     - 信息源
         - 可以直接引用的信息源
-            - [globaltimes](www.globaltimes.cn)
+            - [globaltimes](https://www.globaltimes.cn/)
                 - [cn](https://www.globaltimes.cn/china/index.html)
                 - [world](https://www.globaltimes.cn/world/index.html)
         - 批判性信息源
